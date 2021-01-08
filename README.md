@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+This is code for the OTP documentation on the [Elixir Guide](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.htmlgit)
 
 ## Installation
 
